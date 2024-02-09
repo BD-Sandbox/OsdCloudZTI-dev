@@ -1,4 +1,4 @@
-O<#
+<#
 OSDCloud ZTI script. This script is pulled from github using its URL when 
 OSDCloud starts within WinPE. This way the deployment is fully automated.
 
